@@ -15,6 +15,10 @@ setInterval(() => {
   box.innerHTML = date;
 }, 1000);
 
+// code to push kr do abhi be txt file hai branch mein
+// hua?no
+
+
 // check type of date
 // arey tumse he bol rha hu 
 // jab locale string phele se he string hai why are you using upper case and to string
